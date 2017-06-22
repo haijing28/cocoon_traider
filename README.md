@@ -1,10 +1,7 @@
+
 cocoonsprout.com
-==================
+e-commerce checkout example
 
-# cocoonsprout.com
-# cocoonsprout.store 
+build with
 
-build with traider.io
-
-Keep updated
-==============
+#traider.io
